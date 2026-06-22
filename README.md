@@ -96,5 +96,3 @@ To terminate the application safely without risking data loss, press the **`ESC`
 ## ⚖️ Ethical Use Disclaimer
 
 > **IMPORTANT:** This framework is designed and provided strictly as an educational tool for cybersecurity students, researchers, and defense practitioners to study input mechanics and develop heuristic detection rule-sets. It must only be executed in controlled lab settings or on systems where the operator possesses explicit administrative authorization.
-
-```
